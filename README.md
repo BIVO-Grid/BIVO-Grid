@@ -1,4 +1,4 @@
-# BIVO — Bits + Volts
+# BIVO 
 
 **Energía + Datos + Open Source**
 
@@ -19,5 +19,4 @@ BIVO es una iniciativa que combina ingeniería eléctrica, análisis de datos y 
 - Impulsar una comunidad colaborativa de ingenieros y técnicos comprometidos con el uso de herramientas libres.
 - Acelerar la transición energética desde lo local, con datos abiertos y conocimiento compartido.
   
-
 💡 *Código abierto para una energía más abierta.*
