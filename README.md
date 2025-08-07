@@ -18,5 +18,6 @@ BIVO es una iniciativa que combina ingeniería eléctrica, análisis de datos y 
 - Democratizar el acceso a tecnologías de simulación y análisis eléctrico.
 - Impulsar una comunidad colaborativa de ingenieros y técnicos comprometidos con el uso de herramientas libres.
 - Acelerar la transición energética desde lo local, con datos abiertos y conocimiento compartido.
+
   
 💡 *Código abierto para una energía más abierta.*
